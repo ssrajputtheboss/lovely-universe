@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+    background-color: lightslategray;
+}
+
+.end{
+    text-align: center;
+    border-top: 1px solid grey;
+}
+
+h1{
+    color: gold;
+    
+}
+.aboutsite{
+    color: black;
+}
+[class*="col"] {
+    padding: 1rem;
+}
+
+[class*="row"]{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
